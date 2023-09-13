@@ -8,7 +8,7 @@ Portfolio Terminal<br>
 <h4 align="center">Présentation de mon portfolio sous forme de terminal. Les commandes d'un vrai terminal sont utilisables sur le site néanmoins si vous ne maitrisez pas ces dernières vous serez facilement guider pour vous déplacer.</h4>
 <br>
 
-![portfolio](images/banner.png)
+![portfolio](images/banner.jpeg)
 
 ## WEB version 🌐
 
