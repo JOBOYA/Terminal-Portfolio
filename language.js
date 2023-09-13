@@ -38,10 +38,12 @@ var data = {
     <th class="description">Description</th>
   </tr>
   <tr>
-    <td class="center">June 2016 - June 2018</td>
+    <td class="center">Avril 2023 - Juin 2023</td>
     <td>Klevery</td>
-    <td>Co-founder</td>
-    <td>Routing optimization software for professionals with high delivery or travel activity.</td>
+    <td>Développeur web front-end</td>
+    <td>Travail en équipe, concevoir et développer un simulateur de choix de statut juridique
+    React, TypeScript et Tailwind CSS et de conception d'API REST.
+    </td>
   </tr>
   <tr>
     <td class="center">Sept 2017 - Sept 2018</td>
@@ -81,88 +83,7 @@ var data = {
   }`,
 
   "project" : `<table class="result">
-  <tr>
-    <th>index</th>
-    <th>Name</th>
-    <th>Tech</th>
-    <th class="description">Description</th>
-    <th>As a team?</th>
-    <th>Github</th>
-  </tr>
-  <tr>
-    <td class="center">1</td>
-    <td class="center">Catshop</td>
-    <td class="center">Rails Ruby Git HTML CSS JS AJAX Heroku</td>
-    <td>Cat Photo Selling Marketplace</td>
-    <td class="center">Yes</td>
-    <td class="center"><a href="https://github.com/guillaume-rygn/CatShop" target="blank">Link</a></td>
-  </tr>
-  <tr>
-    <td class="center">2</td>
-    <td class="center">Kata Temple</td>
-    <td class="center">HTML CSS JS Heroku</td>
-    <td>30-day challenge to improve in technical test with Kata Temple. Attempt to complete temple sensei katas from level 8kyu to 4kyu in 30 days - Ruby Edition</td>
-    <td class="center">No</td>
-    <td class="center"><a href="https://github.com/guillaume-rygn/Kata-Temple" target="blank">Link</a></td>
-  </tr>
-  <tr>
-    <td class="center">3</td>
-    <td class="center">ScoreIT</td>
-    <td class="center">Rails Ruby Git HTML CSS JS AJAX Heroku</td>
-    <td>The objective of ScoreIT is to offer a tool for creating credibility for start-up projects aimed at raising funds from investors or financial institutions. We offer a fully online platform allowing startup founders to obtain a rating on their project, thus giving it a credibility score in order to reassure future potential investors.</td>
-    <td class="center">Yes</td>
-    <td class="center"><a href="https://github.com/guillaume-rygn/ScoreIT" target="blank">Link</a></td>
-  </tr>
-  <tr>
-    <td class="center">4</td>
-    <td class="center">Monolith Arena</td>
-    <td class="center">HTML CSS JS</td>
-    <td>48h to create a 2d game on the theme of a battle arena using Javascript classes</td>
-    <td class="center">No</td>
-    <td class="center"><a href="https://github.com/guillaume-rygn/Monolith-Arena" target="blank">Link</a></td>
-  </tr>
-  <tr>
-    <td class="center">5</td>
-    <td class="center">My Dark Theme.JS</td>
-    <td class="center">HTML CSS JS</td>
-    <td>Dark mode generator with customization of dark mode colors and possibility to copy the code to add it directly to your site. To make it work you have to vary the colors in CSS.</td>
-    <td class="center">No</td>
-    <td class="center"><a href="https://github.com/guillaume-rygn/MyDarkTheme.JS" target="blank">Link</a></td>
-  </tr>
-  <tr>
-    <td class="center">6</td>
-    <td class="center">EmojiFace</td>
-    <td class="center">HTML CSS JS</td>
-    <td>60 seconds to reproduce as many emoji as possible with your face! Use of webcam and face detection thanks to AI!</td>
-    <td class="center">No</td>
-    <td class="center"><a href="https://github.com/guillaume-rygn/EmojiFace" target="blank">Link</a></td>
-  </tr>
-  <tr>
-    <td class="center">7</td>
-    <td class="center">Portfolio Terminal</td>
-    <td class="center">HTML CSS JS</td>
-    <td>Presentation of my portfolio as a terminal. Integration of autocomplete, command history, etc. The latter can be used as a real terminal.</td>
-    <td class="center">No</td>
-    <td class="center"><a href="https://github.com/guillaume-rygn/Portfolio-Terminal" target="blank">Link</a></td>
-  </tr>
-  <tr>
-    <td class="center">8</td>
-    <td class="center">YouLearn</td>
-    <td class="center">React JS SCSS</td>
-    <td>Turns any YouTube video into an e-learning platform with the ability to view chapters in the video, take notes with associated timestamps, etc.
-    - Under development to integrate a Rails API backend to record information.</td>
-    <td class="center">No</td>
-    <td class="center"><a href="mailto:reygner0224@gmail.com?subject=This repository is pravate&body=Guillaume REYGNER> this repository is private tell me why you want to have access to it." target="blank">Link</a></td>
-  </tr>
-  <tr>
-    <td class="center">9</td>
-    <td class="center">FindHouse</td>
-    <td class="center">React JS CSS Rails API</td>
-    <td>Creation of a real estate sales platform with a React JS frontend and a Rails API backend.</td>
-    <td class="center">Yes</td>
-    <td class="center"><a href="https://github.com/guillaume-rygn/FindHouse" target="blank">Link</a></td>
-  </tr>
-  </table><br>
+  <br>
   <p class="result"><em>You can see the site attached to the project using the command</em> <code>my-projects[index].website</code><em>, index being the number associated with the project.</em></p>`,
 
   "glassmorphismOff" : `<p class="notfound result glassmorphismOffresult">You have just deactivated the glassmorphism design to activate it use the <code>glassmophism</code> command.`,
