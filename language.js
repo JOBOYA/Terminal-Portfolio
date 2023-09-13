@@ -66,9 +66,9 @@ var data = {
   "redirectGithub" : `You will be redirected to Github.`,
 
   "hobby" : `{<br>
-    &nbsp;&nbsp;&nbsp;"Sport": "Volleyball, Cycling",<br>
-    &nbsp;&nbsp;&nbsp;"Programming": "JS, Rails",<br>
-    &nbsp;&nbsp;&nbsp;"Other" : "Entrepreneurship, Photography, Reading autobiography, Design, Marketing"<br>
+    &nbsp;&nbsp;&nbsp;"Sport": "Fitness, Boxe",<br>
+    &nbsp;&nbsp;&nbsp;"Programming": "JS, Typescript, Mining & Blockchain",<br>
+    &nbsp;&nbsp;&nbsp;"Other" : "Cuisiner, Musique"<br>
   }`,
 
   "project" : `<table class="result">
@@ -187,7 +187,7 @@ var data = {
 
   "congratulation" : `Congratulations you have found the <code>.secret</code> folder.`,
 
-  "bodymail" : `mailto:reygner0224@gmail.com?subject=Your portfolio is amazing, are you open to opportunities?&body=Joseph Boyadjian > Hello to you who found my easter egg, I am open to opportunities professionals so do not hesitate to contact me by sending me this email with your proposal. I will contact you to arrange a phone interview. Thank you for your time !`
+  "bodymail" : `mailto:joseph.boyadjian26300gmail.com?subject=Your portfolio is amazing, are you open to opportunities?&body=Joseph Boyadjian > Hello to you who found my easter egg, I am open to opportunities professionals so do not hesitate to contact me by sending me this email with your proposal. I will contact you to arrange a phone interview. Thank you for your time !`
 
   },
 
