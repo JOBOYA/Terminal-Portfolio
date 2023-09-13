@@ -33,41 +33,30 @@ var data = {
 
     "experience" : `<tr>
     <th>Date</th>
-    <th>Company</th>
-    <th>Position</th>
+    <th>Entreprise</th>
+    <th>Poste</th>
     <th class="description">Description</th>
   </tr>
   <tr>
-    <td class="center">Avril 2023 - Juin 2023</td>
-    <td>Klevery</td>
+    <td class="center">Avril 2023 - Juillet 2023</td>
+    <td>FBSimulateur</td>
     <td>Développeur web front-end</td>
     <td>Travail en équipe, concevoir et développer un simulateur de choix de statut juridique
-    React, TypeScript et Tailwind CSS et de conception d'API REST.
-    </td>
-  </tr>
+    React, TypeScript et Tailwind CSS et de conception d'API REST.</td>
+  </tr> 
   <tr>
-    <td class="center">Sept 2017 - Sept 2018</td>
-    <td>Credit Agricole Centre-Est</td>
-    <td>Expert risk analyst</td>
-    <td>Feasibility study of files, frequent contact with project managers in the field, legal study of bilateral/arranger contracts.</td>
-  </tr>
+    <td class="center">Avril 2023</td>
+    <td> The Lab coworking</td>
+    <td>Développeur web front-end</td>
+    <td>Gestion de projets
+    Développement de la partie Front</td>
+  </tr> 
   <tr>
-    <td class="center">Jan 2019 - Jul 2021</td>
-    <td>CIC - Lyonnaise de Banque</td>
-    <td>Professional Business Manager</td>
-    <td>Accompaniment of the entrepreneur on his personal and professional projects, financing of needs, accompaniment on the optimization of the balance sheet and projects.</td>
-  </tr>
-  <tr>
-    <td class="center">Dec 2019 - Today</td>
-    <td>Overstats</td>
-    <td>Co-founder</td>
-    <td>Overstats is a team management tool for the game Overwatch developed by Blizzard used by over 100 teams around the world. Management of partnerships and development of the application.</td>
-  </tr>
-  <tr>
-    <td class="center">August 2021 - Today</td>
-    <td>Startup101</td>
-    <td>Editor</td>
-    <td>Writer for the Startup101 newsletter which explores the beginnings of today's great startups such as Facebook, Instagram, Google and many more.</td>
+    <td class="center">Janv 2023 - Mars 2023</td>
+    <td>KOLIVING</td>
+    <td>Stage Développeur full stack</td>
+    <td>Correction des erreurs sur les lignes de code.
+    Contrôle du bon fonctionnement du site web et de la qualité de navigation.</td>
   </tr>`,
 
   "cv" : `The resume upload will begin.`,
@@ -83,7 +72,57 @@ var data = {
   }`,
 
   "project" : `<table class="result">
-  <br>
+  <tr>
+  <th>index</th>
+  <th>Nom</th>
+  <th>Tech</th>
+  <th class="description">Description</th>
+  <th>En equipe?</th>
+  <th>Github</th>
+</tr>
+<tr>
+  <td class="center">1</td>
+  <td class="center">Restaurant "Le Quai Antique"</td>
+  <td class="center">PHP Git HTML CSS JS  Heroku</td>
+  <td>Présentation du restaurant, réservation de table et le menu</td>
+  <td class="center">Non</td>
+  <td class="center"><a href="https://lequaiantique.000webhostapp.com/" target="blank">Lien</a></td>
+</tr> 
+<tr>
+  <td class="center">2</td>
+  <td class="center">KOLIFLUX</td>
+  <td class="center">REACT TYPESCRIPT CSS NODEJS JWT RENDER API REST</td>
+  <td>Importation de l'api "se loger" et recherche d'annonces immobilières</td>
+  <td class="center">Oui</td>
+  <td class="center"><a href=https://taupe-hummingbird-5f0d47.netlify.app/" target="blank">Lien</a></td>
+</tr> 
+<tr>
+  <td class="center">3</td>
+  <td class="center">Charles Cantin</td>
+  <td class="center">NEXT TAILWIND Git </td>
+  <td>Ce projet offre une expérience de photographie professionnelle pour diverses occasions - des mariages et des événements d'entreprise aux séances photos en famille et portraits personnels.</td>
+  <td class="center">Non</td>
+  <td class="center"><a href="https://celadon-eclair-1703ea.netlify.app/" target="blank">Lien</a></td>
+</tr> 
+<tr>
+  <td class="center">4</td>
+  <td class="center">KanBan AI</td>
+  <td class="center">VITE TYPESCRIPT TAILWIND</td>
+  <td>Une application web de gestion de tâches et de projets, enrichie par l'implémentation de GPT pour la synthèse automatique et le résumé des tâches. L'objectif est de simplifier la planification et le suivi des projets tout en offrant des insights basés sur l'IA pour améliorer la productivité.</td>
+  <td class="center">Non</td>
+  <td class="center"><a href="https://tangerine-brioche-38768e.netlify.app/" target="blank">Lien</a></td>
+</tr> 
+<tr>
+  <td class="center">5</td>
+  <td class="center">FBSimulateur</td>
+  <td class="center">REACT TYPESCRIPT CSS TAILWIND NODEJS APIREST</td>
+  <td>Grace à ce simulateur, vous saurez quelle forme juridique est la plus adaptée à votre activité, à votre situation personnelle et à vos besoins !</td>
+  <td class="center">Oui</td>
+  <td class="center"><a href="https://maformejuridique.fr/" target="blank">Lien</a></td>
+</tr> 
+</tr>
+</table><br>
+
   <p class="result"><em>You can see the site attached to the project using the command</em> <code>my-projects[index].website</code><em>, index being the number associated with the project.</em></p>`,
 
   "glassmorphismOff" : `<p class="notfound result glassmorphismOffresult">You have just deactivated the glassmorphism design to activate it use the <code>glassmophism</code> command.`,
