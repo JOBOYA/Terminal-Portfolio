@@ -187,7 +187,7 @@ var data = {
 
   "congratulation" : `Congratulations you have found the <code>.secret</code> folder.`,
 
-  "bodymail" : `mailto:reygner0224@gmail.com?subject=Your portfolio is amazing, are you open to opportunities?&body=Guillaume REYGNER > Hello to you who found my easter egg, I am open to opportunities professionals so do not hesitate to contact me by sending me this email with your proposal. I will contact you to arrange a phone interview. Thank you for your time !`
+  "bodymail" : `mailto:reygner0224@gmail.com?subject=Your portfolio is amazing, are you open to opportunities?&body=Joseph Boyadjian > Hello to you who found my easter egg, I am open to opportunities professionals so do not hesitate to contact me by sending me this email with your proposal. I will contact you to arrange a phone interview. Thank you for your time !`
 
   },
 
