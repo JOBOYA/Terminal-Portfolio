@@ -32,7 +32,7 @@ const getLinkedin = () =>{
   terminal.insertAdjacentHTML("beforeend", 
         `<p class="result redirectresultLinkedin">${data[language].redirectLinkedin}</p>`);
   const a = document.createElement("a");
-  a.href = "https://www.linkedin.com/in/joseph-boyadjian/";
+  a.href = "https://www.linkedin.com/in/joseph-boyadjian-638b83255";
   a.setAttribute("target", "blank");
   a.click();
 }
