@@ -307,15 +307,7 @@ function logKey(e){
           website(result);
         } else if (result === "mes-projets[5].website" || result === "my-projects[5].website"){
           website(result);
-        } else if (result === "mes-projets[6].website" || result === "my-projects[6].website"){
-          website(result);
-        } else if (result === "mes-projets[7].website" || result === "my-projects[7].website"){
-          website(result);
-        } else if (result === "mes-projets[8].website" || result === "my-projects[8].website"){
-          website(result);
-        } else if (result === "mes-projets[9].website" || result === "my-projects[9].website"){
-          website(result);
-        } 
+        }
         else if (result === "secrets"){
           secrets();
         } else if (result === "move"){
