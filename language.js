@@ -83,10 +83,10 @@ var data = {
 <tr>
   <td class="center">1</td>
   <td class="center">Restaurant "Le Quai Antique"</td>
-  <td class="center">PHP Git HTML CSS JS  Heroku</td>
+  <td class="center">HTML CSS JS BOOTSTRAP GIT API_NOTION MYSQL NODEJS HEROKU</td>
   <td>Présentation du restaurant, réservation de table et le menu</td>
   <td class="center">Non</td>
-  <td class="center"><a href="https://lequaiantique.000webhostapp.com/" target="blank">Lien</a></td>
+  <td class="center"><a href="https://laboheme-valence.fr/" target="blank">Lien</a></td>
 </tr> 
 <tr>
   <td class="center">2</td>
