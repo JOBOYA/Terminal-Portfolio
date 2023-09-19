@@ -82,9 +82,9 @@ var data = {
 </tr>
 <tr>
   <td class="center">1</td>
-  <td class="center">Restaurant "Le Quai Antique"</td>
+  <td class="center">Restaurant "La Bohême"</td>
   <td class="center">HTML CSS JS BOOTSTRAP GIT API_NOTION MYSQL NODEJS HEROKU</td>
-  <td>Présentation du restaurant, réservation de table et le menu</td>
+  <td>Présentation du restaurant, réservation de table ainsi que le menu</td>
   <td class="center">Non</td>
   <td class="center"><a href="https://laboheme-valence.fr/" target="blank">Lien</a></td>
 </tr> 
